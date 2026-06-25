@@ -1,0 +1,8 @@
+width: 1920
+height: 1080
+fps: 30
+video_encoder: h264_nvenc
+bitrate: 8000k
+rtmp_url_env: YOUTUBE_RTMP_URL
+stream_key_env: YOUTUBE_STREAM_KEY
+

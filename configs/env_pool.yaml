@@ -1,0 +1,6 @@
+env_count: 10
+display_base: ":100"
+bridge_base_port: 15526
+steam_branch: public-beta
+expected_build_id: ""
+

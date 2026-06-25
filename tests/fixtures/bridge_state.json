@@ -1,0 +1,14 @@
+{
+  "branch": "public-beta",
+  "build_id": "mock-build",
+  "run_id": "fixture-run",
+  "screen": "combat",
+  "player": {
+    "hp": 68,
+    "max_hp": 80,
+    "block": 0,
+    "energy": 3
+  },
+  "floor": 1
+}
+

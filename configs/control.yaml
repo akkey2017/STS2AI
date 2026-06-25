@@ -1,0 +1,6 @@
+host: 0.0.0.0
+port: 8080
+auth_token_env: CONTROL_AUTH_TOKEN
+audit_log: data/audit/control.jsonl
+bind_warning: true
+

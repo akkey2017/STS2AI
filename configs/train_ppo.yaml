@@ -1,0 +1,13 @@
+algorithm: PPO
+framework: torch
+num_envs: 10
+rollout_fragment_length: 128
+train_batch_size: 8192
+sgd_minibatch_size: 1024
+num_sgd_iter: 4
+model:
+  type: masked_transformer
+  d_model: 256
+  num_layers: 4
+  num_heads: 8
+

@@ -1,0 +1,10 @@
+{
+  "actions": [
+    {"index": 0, "kind": "play_card", "card": "Strike", "target": 0},
+    {"index": 1, "kind": "play_card", "card": "Defend"},
+    {"index": 2, "kind": "end_turn"}
+  ],
+  "legal_indices": [0, 1, 2],
+  "action_space_size": 16
+}
+
